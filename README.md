@@ -1,3 +1,7 @@
+## Blog
+https://velog.io/@torch
+
+## solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhw7181)](https://solved.ac/jhw7181)
 
 <!--
